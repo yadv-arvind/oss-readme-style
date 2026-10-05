@@ -1,0 +1,12 @@
+{
+  "name": "oss-readme-style",
+  "owner": { "name": "Arvind Yadav" },
+  "metadata": { "description": "Consistent README writing style for open source repositories." },
+  "plugins": [
+    {
+      "name": "oss-readme-style",
+      "source": "./plugins/oss-readme-style",
+      "description": "Write and review READMEs in one consistent, tutorial-grade style: plain instructional voice, metadata table, architecture, prerequisites, numbered steps, troubleshooting, clean up."
+    }
+  ]
+}

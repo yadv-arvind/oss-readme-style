@@ -1,0 +1,8 @@
+{
+  "name": "oss-readme-style",
+  "version": "0.1.0",
+  "description": "Write and review READMEs in one consistent, tutorial-grade style across open source repositories.",
+  "author": { "name": "Arvind Yadav", "url": "https://github.com/yadv-arvind" },
+  "license": "MIT",
+  "keywords": ["readme", "documentation", "writing-style", "open-source"]
+}
