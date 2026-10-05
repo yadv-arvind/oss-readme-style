@@ -1,6 +1,6 @@
 # OSS README Style — a Claude Code plugin
 
-Write and review READMEs in one consistent, tutorial-grade style across all your open source repositories. The style is derived from a study of 741 READMEs in the [Amazon Bedrock AgentCore samples](https://github.com/awslabs/agentcore-samples) repository.
+Write and review READMEs in one consistent, tutorial-grade style across all your open source repositories. 
 
 | Information | Details |
 |:------------|:--------|
